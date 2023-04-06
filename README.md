@@ -111,5 +111,5 @@ NEAREST_SCH_RANK # 근교의 학교의 랭킹
     - Polynomial 사용시 다른 특징들의 곱들로 특징을 생성해내는데 이 부분에서 과대적합이 발생한 것으로 보임
 
 ## 참고
-[탐색적 데이터 분석(EDA)](https://www.kaggle.com/code/shtrausslearning/eda-perth-housing-price-prediction)
+[탐색적 데이터 분석(EDA)](https://www.kaggle.com/code/shtrausslearning/eda-perth-housing-price-prediction) <br/>
 [모델 및 특징 생성 참고](https://www.kaggle.com/code/shtrausslearning/perth-housing-price-prediction-models?scriptVersionId=117296536)
