@@ -5,6 +5,11 @@
 - 언어 : `Python`
 - 제출 : [사이트](https://www.kaggle.com/competitions/regression220718/overview)
 
+## 환경
+- Google Colab
+- Jupyter Notebook
+- Notion(결과 정리)
+
 ## 진행
 ### 각 컬럼별 고유값 개수 확인
 ```
